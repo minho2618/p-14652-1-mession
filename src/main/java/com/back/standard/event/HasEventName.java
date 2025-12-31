@@ -1,4 +1,4 @@
-package com.back.standard.event.HasEventName;
+package com.back.standard.event;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 
